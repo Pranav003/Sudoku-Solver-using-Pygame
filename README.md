@@ -81,4 +81,4 @@ python SudokuGUI.py
 python3 SudokuGUI.py
 ```
 
-<p align='center'><b>Made with ❤ by Dhruv Panchal</b></p>
+<p align='center'><b>Made with ❤ by Pranav Maniyar</b></p>
